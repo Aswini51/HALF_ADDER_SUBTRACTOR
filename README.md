@@ -51,7 +51,7 @@ Figure -02 HALF Subtractor
 5.	For different input combinations generate the timing diagram.
 
 # PROGRAM:
-![Screenshot 2024-11-04 051452](https://github.com/user-attachments/assets/62291206-9bda-45a1-979d-56ba8e20c9a3)
+![WhatsApp Image 2024-11-14 at 2 22 10 PM](https://github.com/user-attachments/assets/79ac6ed2-1559-4578-88d8-0259fe704ac8)
 
 Developed by: RegisterNumber:*/
 
@@ -62,4 +62,5 @@ Developed by: RegisterNumber:*/
 ![Screenshot 2024-11-07 141212](https://github.com/user-attachments/assets/032b8d94-4a69-4173-a5c2-1a5b096dda2b)
 
 # RESULT:
-Studing and verifing a half adder and half subtractor circuit nad verify its truth table in Quartus using Verilog programming.
+
+Half adder and subtractor circuit is studied and its truth table is verified in Quartus using Verilog programming.
