@@ -2,7 +2,7 @@
 # REG.NO : 24000247
 # EXPERIMENT3 : Implementation of Half adder and subtractor
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+
 
 # AIM:
 
